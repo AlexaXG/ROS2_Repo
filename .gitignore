@@ -1,0 +1,9 @@
+ colcon build output
+build/
+install/
+log/
+# Python
+__pycache__/
+*.pyc
+# auto-named scratch bag recordings (commit deliberately named ones only)
+rosbag2_*/
